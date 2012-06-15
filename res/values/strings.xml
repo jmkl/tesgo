@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TestGoTheme2!</string>
+    <string name="app_name">Theme Template GO Launcher EX</string>
+    <string name="dialogtitle">Checking GO Launcher EX</string>
+    <string name="dialogcontent">GO Launcher EX is not installed in your phone, please press OK to download it</string>
+    <string name="dialogok">OK</string>
+</resources>
